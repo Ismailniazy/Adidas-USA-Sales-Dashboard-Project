@@ -1,4 +1,5 @@
 # Tableau | Adidas USA Sales Dashboard
+![](Adidas USA Sales Data.png)
 
 ## Data Source:
 The data was obtained from Kaggle & includes sales information for Adidas products in the US, various product categories, regions & sales methods.
