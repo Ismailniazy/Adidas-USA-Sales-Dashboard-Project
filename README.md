@@ -4,9 +4,9 @@
 The data was obtained from Kaggle & includes sales information for Adidas products in the US, various product categories, regions & sales methods.
 
 ## Methodology:
-**Data Cleaning:** Processed & cleaned the data to handle missing values & ensure consistency.
-**Data Transformation:** Aggregated & segmented the data by product category, region & sales method.
-**Visualization:** Created interactive dashboards using Tableau to display key metrics and trends.
+Data Cleaning: Processed & cleaned the data to handle missing values & ensure consistency.
+Data Transformation: Aggregated & segmented the data by product category, region & sales method.
+Visualization:Created interactive dashboards using Tableau to display key metrics and trends.
 
 ## Analysis:
 **Sales by Month:** The trend line shows monthly sales, highlighting seasonal peaks & growth over time.
