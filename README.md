@@ -1,4 +1,4 @@
-                           # Tableau | Adidas USA Sales Dashboard
+# Tableau | Adidas USA Sales Dashboard
 
 ![Adidas USA Sales Data](https://github.com/user-attachments/assets/6f8c50b5-5e6c-4311-b585-14f118c54034)
 
